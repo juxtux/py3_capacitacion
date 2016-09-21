@@ -20,7 +20,7 @@ ej_4 (plot_subplots): Dos básicos para aprender a utilizar la librería Matplot
 
 ej_5 (svm): Tres modelos de clasificación utilizando la técnica de Machine Learning Support Vector Machines (SVM) con Kernels: lineal, polinómico grado 3, y Gausseano. Además de estos modelos, puedes encontrar graficados en tres-dimensiones los espacios vectoriales que genera cada modelo, revisar en caso de necesitar gráficos en 3D con Matplotlib.
 
-ATuring_paper.pdf : Paper comentado en clase 2, escrito por el Dr. Alan Turing en 1950 "Computer Machinery & Intelligence."
+ATuring_paper.pdf : Paper comentado en clase 2, escrito por el Dr. Alan Turing en 1950 "Computer Machinery & Intelligence".
 
 
 **** Más material y comentarios serán agregados dentro del mes de Septiembre 2016.
