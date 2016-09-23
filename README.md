@@ -20,7 +20,13 @@ ej_4 (plot_subplots): Dos básicos para aprender a utilizar la librería Matplot
 
 ej_5 (svm): Tres modelos de clasificación utilizando la técnica de Machine Learning Support Vector Machines (SVM) con Kernels: lineal, polinómico grado 3, y Gausseano. Además de estos modelos, puedes encontrar graficados en tres-dimensiones los espacios vectoriales que genera cada modelo, revisar en caso de necesitar gráficos en 3D con Matplotlib.
 
+ej_6 (stats / modelos de regresión): Cuatro análisis estadísticos utilizando Python Pandas.
+  * notebook_1: ejemplo de data discovery utilizando algunas de las funcionalidades de Pandas.
+  * notebook_2: análisis univariable de nuestra variable target.
+  * notebook_3: una de las tantas metodologías recomendadas para generar/evaluar/validar modelos de regresión lineal. Selección de variables para el modelo es uno de los temas centrales de este ejemplo.
+  * notebook_4: análisis de co-linealidad y modelo de regresión lineal utilizando statsmodels.
+
 ATuring_paper.pdf : Paper comentado en clase 2, escrito por el Dr. Alan Turing en 1950 "Computer Machinery & Intelligence".
 
 
-**** Más material y comentarios serán agregados dentro del mes de Septiembre 2016.
+**** End
